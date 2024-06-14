@@ -1,0 +1,13 @@
+*{
+    font-family: Chalkboard Se;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    border: 5px solid rgb(0, 255, 179);
+    border-radius: 5px;
+    padding: 5px 5px;
+}
